@@ -1,0 +1,2 @@
+class Authro < ApplicationRecord
+end
